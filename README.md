@@ -1,22 +1,38 @@
-# Hi, I'm Dipesh Sharma 👋
+# Hi 👋, I'm Dipesh Sharma
 
-### Aspiring Frontend Developer | B.Tech CSE Student
+### B.Tech CSE Student | Aspiring Frontend Developer | React Learner
 
-I'm a final-year Computer Science Engineering student passionate about web development and building user-friendly websites.
+---
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering
-- 💻 Skills: HTML, CSS, JavaScript, React
-- 🚀 Currently learning React and improving my development skills
-- 📂 Projects: Digital Clock and Image Slider
-- 🎯 Looking for an internship or entry-level opportunity in web development
+## 🚀 About Me
 
-### 🛠️ Technologies
+- 🎓 Final-year B.Tech student in Computer Science Engineering
+- 💻 Interested in Web Development and Frontend Development
+- 🌱 Currently learning React and building projects
+- 📚 Always learning new technologies and improving my coding skills
+- 🎯 Looking for an internship or entry-level opportunity in IT
 
-HTML | CSS | JavaScript | React | Git | GitHub
+---
 
-### 📌 My Projects
+## 🛠️ Skills
 
-- [Digital Clock](https://github.com/Dipesh22Sharma/digital-clock)
-- [Image Slider](https://github.com/Dipesh22Sharma/image-slider)
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React
+- ⚙️ **Tools:** Git, GitHub, VS Code
+- 📖 **Currently Learning:** React Hooks and modern frontend development
 
-I'm always learning and working to become a better developer.
+---
+
+## 📂 Projects
+
+- 🔹 [Digital Clock](https://github.com/Dipesh22Sharma/digital-clock) — A digital clock displaying time and date
+- 🔹 [Image Slider](https://github.com/Dipesh22Sharma/image-slider) — An image slider built using web technologies
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Frontend Developer by building real-world projects and continuously improving my technical skills.
+
+---
+
+⭐ Thanks for visiting my profile!

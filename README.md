@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dipesh Sharma 👋
 
-<!--
-**Dipesh22Sharma/Dipesh22Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend Developer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I'm a final-year Computer Science Engineering student passionate about web development and building user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Skills: HTML, CSS, JavaScript, React
+- 🚀 Currently learning React and improving my development skills
+- 📂 Projects: Digital Clock and Image Slider
+- 🎯 Looking for an internship or entry-level opportunity in web development
+
+### 🛠️ Technologies
+
+HTML | CSS | JavaScript | React | Git | GitHub
+
+### 📌 My Projects
+
+- [Digital Clock](https://github.com/Dipesh22Sharma/digital-clock)
+- [Image Slider](https://github.com/Dipesh22Sharma/image-slider)
+
+I'm always learning and working to become a better developer.
